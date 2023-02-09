@@ -1,1 +1,5 @@
+com/eloi/icomidas/model/Client.class
+com/eloi/icomidas/service/ClientActivationService.class
 com/eloi/icomidas/IComidasApplication.class
+com/eloi/icomidas/controller/MyFirstController.class
+com/eloi/icomidas/notifier/EmailNotifier.class
